@@ -25,7 +25,6 @@ public class Main {
         rainha.nome = "Tina";
         rainha.sobrenome = "Tunner";
         // Definição de comportamento
-        System.out.println(rainha.falar( volume: "alto"));
         rainha.comer();
 
 
